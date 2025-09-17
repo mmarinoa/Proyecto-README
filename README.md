@@ -37,6 +37,10 @@ Este proyecto todavia se encuentra en una fase de prueba y en constante mantenim
   <img width="302" height="474" alt="image" src="https://github.com/user-attachments/assets/f54eaba0-4fca-4d07-91e2-4b0e69d73aa2" />
 </p>
 
+<p align="center">
+  <img width="1214" height="760" alt="image" src="https://github.com/user-attachments/assets/464ddf67-c3ae-4c00-a1e3-461c1d6fe285" />
+</p>
+
 ## Acceso al Proyecto
 Explica cómo clonar el repositorio, instalar dependencias o usar la aplicación.  
 
