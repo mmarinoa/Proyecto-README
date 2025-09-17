@@ -6,7 +6,7 @@
 
 <p align="center">
   ![Version](https://img.shields.io/badge/version-1.4.5-blue?style=flat&logo=github&logoColor=purple)
-  ![License](https://img.shields.io/badge/license-MIT-green)
+  ![License](https://img.shields.io/badge/license-MIT-green) 
 </p>
 
 ## Índice
