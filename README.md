@@ -7,6 +7,18 @@
 ![version](https://img.shields.io/badge/version-1.4.5-blue?style=flat)
 ![parche](https://img.shields.io/badge/patch-56.1-blue?style=flat&logo=github&logoColor=purple)
 
+## Índice
+
+- [Descripción del Proyecto](#descripción-del-proyecto)
+- [Estado del Proyecto](#estado-del-proyecto)
+- [Demostración de funciones y aplicaciones](#demostración-de-funciones-y-aplicaciones)
+- [Acceso al Proyecto](#acceso-al-proyecto)
+- [Tecnologías utilizadas](#tecnologías-utilizadas)
+- [Personas Contribuyentes](#personas-contribuyentes)
+- [Personas Desarrolladoras del Proyecto](#personas-desarrolladoras-del-proyecto)
+- [Licencia](#licencia)
+
+
 
 
  
