@@ -29,8 +29,8 @@ Sky Map es un planetario portátil para tu dispositivo Android. Úselo para iden
 > [!WARNING]
 > El mapa está inestable.
 
-Si tienes un teléfono que no tiene giroscopio, es de esperar que haya algunas vibraciones. Intente ajustar la velocidad y la amortiguación del sensor (en la configuración).
-Estamos trabajando en mejoras.
+- [ ] Si tienes un teléfono que no tiene giroscopio, es de esperar que haya algunas vibraciones. Intente ajustar la velocidad y la amortiguación del sensor (en la configuración).
+- [x] Estamos trabajando en mejoras.
 
 ## Demostración de funciones y aplicaciones
 <p align="center">
@@ -78,7 +78,9 @@ Lista a las personas que han aportado ideas o material al proyecto.
 Lista a quienes han escrito el código y desarrollado la aplicación.  
 
 ## Licencia
-Indica bajo qué licencia se distribuye el proyecto (por ejemplo, MIT, GPL, Apache…).
+                                Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
 
 
 
