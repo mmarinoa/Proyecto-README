@@ -69,13 +69,22 @@ Si solo desea regenerar rápidamente un apk, consulte las siguientes instruccion
 se realizan mediante el script de shell, así que asegúrese de compilar específicamente la versión Gms).
 
 ## Tecnologías utilizadas
-Enumera los lenguajes, frameworks, librerías o herramientas que usa el proyecto.  
+
+- **Lenguajes:** JavaScript, Python
+- **Frameworks/Librerías:** React, Three.js
+- **APIs:** NASA API, OpenWeatherMap
+- **Herramientas:** Git, GitHub, VS Code, Figma
+
 
 ## Personas Contribuyentes
-Lista a las personas que han aportado ideas o material al proyecto.  
+1. Marta Mariño
+2. Mariño Marta
+3. Marta Mariño
 
 ## Personas Desarrolladoras del Proyecto
-Lista a quienes han escrito el código y desarrollado la aplicación.  
+1. Marta Mariño
+2. Mariño Marta
+3. Marta Mariño
 
 ## Licencia
                                 Apache License
