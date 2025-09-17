@@ -68,8 +68,6 @@ Si solo desea regenerar rápidamente un apk, consulte las siguientes instruccion
 (nota: assembleRelease no funcionará porque la versión f-droid necesita algunos ajustes que
 se realizan mediante el script de shell, así que asegúrese de compilar específicamente la versión Gms).
 
-Traducción realizada con la versión gratuita del traductor DeepL.com
-
 ## Tecnologías utilizadas
 Enumera los lenguajes, frameworks, librerías o herramientas que usa el proyecto.  
 
