@@ -46,7 +46,29 @@ Estamos trabajando en mejoras.
 </p>
 
 ## Acceso al Proyecto
-Explica cómo clonar el repositorio, instalar dependencias o usar la aplicación.  
+Deberías ver los siguientes
+dos directorios:
+ * app: código fuente de la aplicación.
+ * tools: código fuente para generar datos binarios utilizados por la aplicación.
+
+Para compilar SkyMap, puedes utilizar Android Developer Studio o Gradle.  Comienza por
+crear un archivo `local.properties` que contenga la ubicación de tu
+instalación de Android:
+
+    sdk.dir=<ruta a tu SDK>
+
+Android Developer Studio puede crearlo por ti.  Puedes regenerar los archivos de datos y
+recompilar todo con el script `build_skymap.sh`:
+
+    ./build_skymap.sh
+    
+(o su equivalente en f-droid).
+
+Si solo desea regenerar rápidamente un apk, consulte las siguientes instrucciones
+(nota: assembleRelease no funcionará porque la versión f-droid necesita algunos ajustes que
+se realizan mediante el script de shell, así que asegúrese de compilar específicamente la versión Gms).
+
+Traducción realizada con la versión gratuita del traductor DeepL.com
 
 ## Tecnologías utilizadas
 Enumera los lenguajes, frameworks, librerías o herramientas que usa el proyecto.  
