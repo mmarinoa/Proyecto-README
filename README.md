@@ -26,7 +26,9 @@
 Sky Map es un planetario portátil para tu dispositivo Android. Úselo para identificar estrellas, planetas, nebulosas y más.
 
 ## Estado del Proyecto
-El mapa está inestable.
+> [!WARNING]
+> El mapa está inestable.
+
 Si tienes un teléfono que no tiene giroscopio, es de esperar que haya algunas vibraciones. Intente ajustar la velocidad y la amortiguación del sensor (en la configuración).
 Estamos trabajando en mejoras.
 
